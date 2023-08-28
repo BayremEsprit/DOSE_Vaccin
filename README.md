@@ -3,10 +3,10 @@
 This repository contains a Python-based project for predicting the most efficient type of vaccine using K-Nearest Neighbors (KNN) algorithm. The project utilizes Google Colab for ease of development and collaboration.
 the data taken from Kaggle.
 
-##Project Overview
+## Project Overview
 In this project, we aim to predict the most efficient type of vaccine based on given input features using the K-Nearest Neighbors algorithm. KNN is a machine learning algorithm used for classification tasks. It classifies a new data point based on the majority class of its k-nearest neighbors in the feature space.
 
-##Prerequisites
+## Prerequisites
 Python 3.7 or higher is required.
 Basic understanding of machine learning concepts.
 Familiarity with K-Nearest Neighbors algorithm.
@@ -14,7 +14,7 @@ Familiarity with K-Nearest Neighbors algorithm.
 ## Technologies Used
 #### Python 3.7
 #### K-Nearest Neighbors algorithm
-!([https://user-images.githubusercontent.com/80257196/236966114-d67b0358-e6c0-44cc-9e07-5f287847d583.jpg](https://cdn.educba.com/academy/wp-content/uploads/2019/11/KNN-Algorithm.png)
+![logo KNN](https://cdn.educba.com/academy/wp-content/uploads/2019/11/KNN-Algorithm.png)
 
 ## Usage
 Open the Jupyter Notebook provided in the notebooks directory using Google Colab or your preferred Jupyter environment.
